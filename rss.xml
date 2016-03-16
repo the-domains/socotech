@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Socotech]]></title>
+        <description><![CDATA[Socotech]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 01:05:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Founders Fight Club Series #7]]></title>
+            <description><![CDATA[<article><h1>Founders Fight Club Series #7</h1><p>SocoTech Presents Founders Fight Club at the SocoNexus</p></article>]]></description>
+            <link>undefinedfounders-fight-club-series-7/index.html</link>
+            <guid isPermaLink="false">d0f7b27b-5692-403c-a886-3a154f6c515e</guid>
+            <pubDate>Wed, 16 Mar 2016 01:04:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
