@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Tuesday, April 5, 2016 at the SocoNexus'
-datePublished: '2016-03-16T01:21:20.567Z'
-dateModified: '2016-03-16T01:20:50.804Z'
+description: 'Got an idea? Pitch it to a panel of Investors and win $1000!'
+datePublished: '2016-03-16T01:34:36.120Z'
+dateModified: '2016-03-16T01:34:27.720Z'
 title: North Bay Startup Jam
 author: []
+sourcePath: _posts/2016-03-16-north-bay-startup-jam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-north-bay-startup-jam.md
-published: true
 url: north-bay-startup-jam/index.html
 _type: Article
 
