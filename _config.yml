@@ -1,7 +1,7 @@
 name: Socotech
 favicon: null
-layout_spectrum: 0.8613900016061962
-typography_spectrum: 0.8734732160810381
+layout_spectrum: 0.96462
+typography_spectrum: 0.06702
 title: Serving the Sonoma County Tech Startup Community
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7002619316335768
-  lightness: 0.8622496498282999
-  saturation: 0.44570792093873024
-  rhythmicContrast: 0.09949072124436498
+  brandStrength: 0.9375
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
